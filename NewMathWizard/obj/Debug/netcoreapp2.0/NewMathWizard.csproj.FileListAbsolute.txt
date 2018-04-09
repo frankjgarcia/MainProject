@@ -1,0 +1,10 @@
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\bin\Debug\netcoreapp2.0\NewMathWizard.deps.json
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\bin\Debug\netcoreapp2.0\NewMathWizard.runtimeconfig.json
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\bin\Debug\netcoreapp2.0\NewMathWizard.runtimeconfig.dev.json
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\bin\Debug\netcoreapp2.0\NewMathWizard.dll
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\bin\Debug\netcoreapp2.0\NewMathWizard.pdb
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\obj\Debug\netcoreapp2.0\NewMathWizard.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\obj\Debug\netcoreapp2.0\NewMathWizard.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\obj\Debug\netcoreapp2.0\NewMathWizard.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\obj\Debug\netcoreapp2.0\NewMathWizard.dll
+C:\Users\fgarcia\Documents\CIDM3312\NewMathWizard\obj\Debug\netcoreapp2.0\NewMathWizard.pdb
